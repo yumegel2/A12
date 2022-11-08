@@ -53,6 +53,10 @@ nav ul{
 }
 nav li a{
 	width: 20%;
+	align-content: center;
+	padding-bottom: 1em;
+	padding-top: 1em;
+	background-color: #800000;
 }
 /* the styles for the section */
 section {
