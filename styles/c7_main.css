@@ -45,6 +45,15 @@ header img {
 .shadow {
 	text-shadow: 2px 2px 2px #800000;
 }
+/* the styles for the nav */
+nav ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+nav li a{
+	width: 20%;
+}
 /* the styles for the section */
 section {
 	width: 525px;
