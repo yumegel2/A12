@@ -17,7 +17,7 @@ body {
 a:focus, a:hover {
 	font-style: italic;
 }
-a {
+body a {
 	color: white;
 	font-weight: bold;
 	width: 20%;
