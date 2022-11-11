@@ -17,15 +17,6 @@ body {
 a:focus, a:hover {
 	font-style: italic;
 }
-body a {
-	color: white;
-	font-weight: bold;
-	width: 20%;
-	align-content: center;
-	padding-bottom: 1em;
-	padding-top: 1em;
-	background-color: #800000
-}
 /* the styles for the header */
 header {
 	padding: 1.5em 0 2em 0;
@@ -59,6 +50,15 @@ nav ul{
 	margin: 0;
 	padding: 0;
 	list-style: none;
+}
+nav a {
+	color: white;
+	font-weight: bold;
+	width: 20%;
+	align-content: center;
+	padding-bottom: 1em;
+	padding-top: 1em;
+	background-color: #800000
 }
 /* the styles for the classes */
 .current{
