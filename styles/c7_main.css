@@ -63,7 +63,7 @@ nav li a {
 	padding-top: 1em;
 	background-color: #800000;
 }
-nav li  li{
+nav li li{
 	visibility: hidden;
 }
 /* the styles for the classes */
