@@ -46,6 +46,9 @@ header img {
 	text-shadow: 2px 2px 2px #800000;
 }
 /* the styles for the nav */
+nav{
+	position: relative;
+}
 nav ul{
 	margin: 0;
 	padding: 0;
