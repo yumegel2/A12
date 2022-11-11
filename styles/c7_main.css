@@ -61,6 +61,10 @@ nav li a{
 	background-color: #800000;
 
 }
+/* the styles for the classes */
+.current{
+	color: yellow;
+}
 /* the styles for the section */
 section {
 	width: 525px;
