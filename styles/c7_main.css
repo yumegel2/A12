@@ -65,6 +65,7 @@ nav li a {
 }
 nav li li{
 	visibility: hidden;
+	position: absolute;
 }
 /* the styles for the classes */
 .current{
