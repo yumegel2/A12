@@ -16,10 +16,9 @@ body {
 }
 a:focus, a:hover {
 	font-style: italic;
-	display: revert;
 }
-a::after{
-	clear: revert;
+nav li li a::after{
+	clear: left;
 	display: inline-block;
 }
 /* the styles for the header */
