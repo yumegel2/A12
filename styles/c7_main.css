@@ -62,6 +62,7 @@ nav li a {
 	padding-bottom: 1em;
 	padding-top: 1em;
 	background-color: #800000;
+	float: none;
 }
 nav li li{
 	visibility: hidden;
