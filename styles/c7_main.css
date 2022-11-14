@@ -16,6 +16,7 @@ body {
 }
 a:focus, a:hover {
 	font-style: italic;
+	display: revert;
 }
 /* the styles for the header */
 header {
@@ -70,7 +71,7 @@ nav li a {
     text-decoration: none;
 }
 nav li li{
-	visibility: collapse;
+	display: none;
 	position: absolute;
 	float: none;
 }
