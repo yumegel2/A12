@@ -18,6 +18,10 @@ a:focus, a:hover {
 	font-style: italic;
 	display: revert;
 }
+a::after{
+	clear: revert;
+	display: inline-block;
+}
 /* the styles for the header */
 header {
 	padding: 1.5em 0 2em 0;
@@ -69,11 +73,11 @@ nav li a {
     color: white;
     font-weight: bold;
     text-decoration: none;
+	float: none;
 }
 nav li li{
 	display: none;
 	position: absolute;
-	float: none;
 }
 /* the styles for the classes */
 .current{
