@@ -74,7 +74,7 @@ nav li a {
     text-decoration: none;
 	float: none;
 }
-nav li li{
+nav ul ul li{
 	display: none;
 	float: none;
 	text-align: center;
